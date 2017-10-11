@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Lesson_05/Lesson_05_RobotSpring.iml" filepath="$PROJECT_DIR$/Lesson_05/Lesson_05_RobotSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_06/Lesson_06_RobotSpring2/Lesson_06_RobotSpring2.iml" filepath="$PROJECT_DIR$/Lesson_06/Lesson_06_RobotSpring2/Lesson_06_RobotSpring2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_03/RobotImp1/RobotImp1.iml" filepath="$PROJECT_DIR$/Lesson_03/RobotImp1/RobotImp1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_03/RobotImp2/RobotImp2.iml" filepath="$PROJECT_DIR$/Lesson_03/RobotImp2/RobotImp2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring_JavaBegin.iml" filepath="$PROJECT_DIR$/Spring_JavaBegin.iml" />

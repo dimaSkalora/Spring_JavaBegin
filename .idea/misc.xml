@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <type id="Spring" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/Lesson_03/RobotImp1/pom.xml" />
         <option value="$PROJECT_DIR$/Lesson_03/RobotImp2/pom.xml" />
         <option value="$PROJECT_DIR$/Lesson_05/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_06/Lesson_06_RobotSpring2/pom.xml" />
       </list>
     </option>
   </component>

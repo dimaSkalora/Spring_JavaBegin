@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Lesson_05_RobotSpring" />
+        <module name="Lesson_06_RobotSpring2" />
         <module name="RobotImp1" />
         <module name="RobotImp2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Lesson_05_RobotSpring" target="1.8" />
+      <module name="Lesson_05_RobotSpring" target="1.5" />
+      <module name="Lesson_06_RobotSpring2" target="1.8" />
       <module name="RobotImp1" target="1.5" />
       <module name="RobotImp2" target="1.5" />
     </bytecodeTargetLevel>
